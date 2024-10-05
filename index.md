@@ -43,3 +43,7 @@ The Investor includes news from Asia Pacific, EMEA and the USA, covering details
 [Download from App Store](https://apps.apple.com/in/app/sangalo/id1550242573)
 
 ![sangalo](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/sangalo.png?raw=true)
+
+## Quick Deal - Classified Ads Platform
+
+![Quick Deal](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/quickdeal/quickdeal.png?raw=true)
