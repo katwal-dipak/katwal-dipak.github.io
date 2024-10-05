@@ -4,6 +4,8 @@
 
 [How Artera Built its Art Discovery Platform with Astra DB, Vector Search, and Astra Streaming](https://www.datastax.com/blog/artera-art-discovery-platform-with-datastax-astra-db-vector-search-and-astra-streaming) ?
 
+[Download Artera from App Store](https://apps.apple.com/gb/app/artera-art-for-all/id6449464274)
+
 ![Artera Image Search](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_image_search.PNG?raw=true)
 
 [Artera utilizes Supabase's authentication system to provide secure, passwordless login and social login options within the app.](https://supabase.com/auth)
@@ -14,7 +16,17 @@
 
 ![Artera Audio Guide](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_audio.PNG?raw=true)
 
-# Jones Lang LaSalle, Bengaluru, India (03- 2016 - 04-2020)
+Artera discover page with quick option to add to collection.
+
+![Artera](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_collection.PNG?raw=true)
+
+![Artera](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_profile.PNG?raw=true)
+
+Artera uses [iOS Universal Links](https://developer.apple.com/ios/universal-links/) and [Android App Links](https://developer.android.com/training/app-links) to enable deep linking, allowing users to share content directly within the app.
+
+![Artera](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_share.PNG?raw=true)
+
+# [Jones Lang LaSalle](https://www.jll.co.uk/), Bengaluru, India (03- 2016 - 04-2020)
 
 ## The Investor
 
