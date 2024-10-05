@@ -2,9 +2,11 @@
 
 ## Artera, London, UK (05-2023 - current)
 
-[How Artera Built its Art Discovery Platform with Astra DB, Vector Search, and Astra Streaming](https://www.datastax.com/blog/artera-art-discovery-platform-with-datastax-astra-db-vector-search-and-astra-streaming) ?
+<a href="https://apps.apple.com/gb/app/artera-art-for-all/id6449464274" target="_blank">
+  <img src="https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/appstore.png?raw=true" alt="App Store" width="200"/>
+</a>
 
-[Download Artera from App Store](https://apps.apple.com/gb/app/artera-art-for-all/id6449464274)
+[How Artera Built its Art Discovery Platform with Astra DB, Vector Search, and Astra Streaming](https://www.datastax.com/blog/artera-art-discovery-platform-with-datastax-astra-db-vector-search-and-astra-streaming) ?
 
 ![Artera Image Search](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_image_search.PNG?raw=true)
 
@@ -40,7 +42,9 @@ The Investor includes news from Asia Pacific, EMEA and the USA, covering details
 
 ## Sangalo - E-commerce app for cosmetics
 
-[Download from App Store](https://apps.apple.com/in/app/sangalo/id1550242573)
+<a href="https://apps.apple.com/in/app/sangalo/id1550242573" target="_blank">
+  <img src="https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/appstore.png?raw=true" alt="App Store" width="200"/>
+</a>
 
 ![sangalo](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/sangalo.png?raw=true)
 
