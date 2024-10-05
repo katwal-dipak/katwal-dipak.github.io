@@ -6,7 +6,7 @@
   <img src="https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/appstore.png?raw=true" alt="App Store" width="200"/>
 </a>
 
-<iframe src="https://drive.google.com/file/d/1YFSav6WmRucBnIOAz95L9y82yAQkWLeX/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1YFSav6WmRucBnIOAz95L9y82yAQkWLeX/preview" width="100%" height="480" allow="autoplay"></iframe>
 
 [How Artera Built its Art Discovery Platform with Astra DB, Vector Search, and Astra Streaming](https://www.datastax.com/blog/artera-art-discovery-platform-with-datastax-astra-db-vector-search-and-astra-streaming) ?
 
