@@ -20,15 +20,19 @@
 
 ![Artera Audio Guide](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_audio.PNG?raw=true)
 
-Artera discover page with quick option to add to collection.
+### Artera discover page with quick option to add to collection.
 
 ![Artera](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_collection.PNG?raw=true)
 
 ![Artera](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_profile.PNG?raw=true)
 
-Artera uses [iOS Universal Links](https://developer.apple.com/ios/universal-links/) and [Android App Links](https://developer.android.com/training/app-links) to enable deep linking, allowing users to share content directly within the app.
+### Artera uses [iOS Universal Links](https://developer.apple.com/ios/universal-links/) and [Android App Links](https://developer.android.com/training/app-links) to enable deep linking, allowing users to share content directly within the app.
 
 ![Artera](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_share.PNG?raw=true)
+
+### In-App Purchases and In-App Subscriptions
+
+![Artera](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_iap.PNG?raw=true)
 
 # [Jones Lang LaSalle](https://www.jll.co.uk/), Bengaluru, India (03-2016 - 04-2020)
 
