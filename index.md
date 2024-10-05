@@ -1,6 +1,6 @@
 # Projects
 
-## Artera, London, UK (05- 2023 - current)
+## Artera, London, UK (05-2023 - current)
 
 [How Artera Built its Art Discovery Platform with Astra DB, Vector Search, and Astra Streaming](https://www.datastax.com/blog/artera-art-discovery-platform-with-datastax-astra-db-vector-search-and-astra-streaming) ?
 
@@ -26,7 +26,7 @@ Artera uses [iOS Universal Links](https://developer.apple.com/ios/universal-link
 
 ![Artera](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/artera/artera_share.PNG?raw=true)
 
-# [Jones Lang LaSalle](https://www.jll.co.uk/), Bengaluru, India (03- 2016 - 04-2020)
+# [Jones Lang LaSalle](https://www.jll.co.uk/), Bengaluru, India (03-2016 - 04-2020)
 
 ## The Investor
 
