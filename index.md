@@ -36,6 +36,8 @@ The Investor includes news from Asia Pacific, EMEA and the USA, covering details
 
 ![The Investor](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/theinvestor.jpeg?raw=true)
 
+# Personal Projects
+
 ## Eatsy - React Native Template
 
 ![eatsy](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/eatsy.png?raw=true)
