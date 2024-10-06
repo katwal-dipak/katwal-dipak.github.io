@@ -3,9 +3,7 @@
 ## Artera, London, UK (05-2023 - current)
 
 <a  href="https://apps.apple.com/gb/app/artera-art-for-all/id6449464274"  target="_blank">
-
 <img  src="https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/appstore.png?raw=true"  alt="App Store"  width="200"/>
-
 </a>
 
 <iframe  src="https://drive.google.com/file/d/1YFSav6WmRucBnIOAz95L9y82yAQkWLeX/preview"  width="100%"  height="480"  allow="autoplay"></iframe>
@@ -53,9 +51,7 @@ The Investor includes news from Asia Pacific, EMEA and the USA, covering details
 ## Sangalo - E-commerce app for cosmetics
 
 <a  href="https://apps.apple.com/in/app/sangalo/id1550242573"  target="_blank">
-
 <img  src="https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/appstore.png?raw=true"  alt="App Store"  width="200"/>
-
 </a>
 
 ![sangalo](https://github.com/katwal-dipak/katwal-dipak.github.io/blob/master/assets/sangalo.jpg?raw=true)
